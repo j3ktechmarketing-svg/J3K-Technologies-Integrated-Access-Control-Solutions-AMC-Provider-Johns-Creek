@@ -41,6 +41,7 @@ Our team’s certifications and local expertise make us a top choice across Geor
 
 Our access control solutions are designed for complex enterprise environments:
 
+
 - **B2B and Corporate Deployments**  
   Serving as an **automated access control solutions B2B service provider Marietta**, J3K Technologies delivers tailored access systems for multi-site organizations, ensuring secure, standardized entry management.  
 
